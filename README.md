@@ -11,6 +11,9 @@ I have studied game development and I also like making some 3D models in Blender
 * 🚀  I'm currently working on [Elixeum Web Portal](http://www.elixeum.com/)
 * 🧠  I'm learning Spanish 🇪🇸
 
+<a href="https://www.github.com/Jakub-Horacek" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Jakub-Horacek?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
+
 ### Skills
 
 <p align="left">
@@ -40,10 +43,10 @@ I have studied game development and I also like making some 3D models in Blender
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jakub-Horacek"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Horacek&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jakub-Horacek's GitHub stats" /></a>
+<a href="http://www.github.com/Jakub-Horacek"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Horacek&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Jakub-Horacek's GitHub stats" /></a>
 
-<a href="http://www.github.com/Jakub-Horacek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Horacek&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Jakub-Horacek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Horacek&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Jakub-Horacek"><img src="https://activity-graph.herokuapp.com/graph?username=Jakub-Horacek&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Jakub-Horacek"><img src="https://activity-graph.herokuapp.com/graph?username=Jakub-Horacek&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Jakub-Horacek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Horacek&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Jakub-Horacek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Horacek&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
